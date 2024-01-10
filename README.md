@@ -3,7 +3,7 @@ Adrian Martinez<br>
 1 / 10 / 2024 - 10:55 AM<br>
 MiniChallengeFiveToSeven  - Endpoints<br>
 Design an API with 4 Endpoints:<br>
-    1. <b>MadLib:</b> create an endpoint that accepts multiple inputs.  Output should be a story based on those values.<br>
+    1. <b>MadLib:</b> Endpoint that accepts multiple inputs.  Output should be a story based on the following values:<br>
       - Place<br>
       - Creature (Fiction or Non-Fiction)<br>
       - Creature's Pronouns<br>
@@ -14,9 +14,9 @@ Design an API with 4 Endpoints:<br>
       - Verb (Ends with 'ed')<br>
       - Noun (Theme/Season)<br>
       - Ending (Up to User's Interpretation)<br>
-    2. <b>OddOrEven:</b> create an endpoint that displays if a number entered is odd or even.<br>
-    3. <b>ReverseIt (Alphanumeric):</b> endpoint that accepts a sequence of numbers and letters then reverses them.<br>
-    4. <b>ReverseIt (Numbers Only):</b> endpoint that accepts a sequence of only numbers and reverses them.  Be sure to display the original characters before the reversed.<br>
+    2. <b>OddOrEven:</b> Endpoint that displays if a number entered is odd or even.<br>
+    3. <b>ReverseIt (Alphanumeric):</b> Endpoint that accepts a sequence of numbers and letters then reverses them.<br>
+    4. <b>ReverseIt (Numbers Only):</b> Endpoint that accepts a sequence of only numbers and reverses them.  Be sure to display the original characters before the reversed.<br>
 <br>
 Peer Reviewed by {Name here}<br> 
 ({Comments here})
