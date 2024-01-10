@@ -2,7 +2,7 @@
 Adrian Martinez<br>
 1 / 10 / 2024 - 10:55 AM<br>
 MiniChallengeFiveToSeven  - Endpoints<br><br>
-Design an API with 4 Endpoints:<br>
+<h2>Design an API with 4 Endpoints:</h2><br>
     1. <b>MadLib:</b> Endpoint that accepts multiple inputs.  Output should be a story based on the following values:<br>
       - Place<br>
       - Creature (Fiction or Non-Fiction)<br>
