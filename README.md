@@ -6,7 +6,7 @@ Design an API with 4 Endpoints:<br>
     1. <b>MadLib:</b> Endpoint that accepts multiple inputs.  Output should be a story based on the following values:<br>
       - Place<br>
       - Creature (Fiction or Non-Fiction)<br>
-      - Creature's Pronouns<br>
+      - Pronouns (He, She, They)<br>
       - Adjective<br>
       - Verb (Ends with 's')<br>
       - Adverb<br>
