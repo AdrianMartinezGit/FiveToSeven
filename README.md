@@ -18,5 +18,5 @@ MiniChallengeFiveToSeven  - Endpoints<br><br>
     3. <b>ReverseIt (Alphanumeric):</b> Endpoint that accepts a sequence of numbers and letters then reverses them.<br>
     4. <b>ReverseIt (Numbers Only):</b> Endpoint that accepts a sequence of only numbers and reverses them.  Be sure to display the original characters before the reversed.<br>
 <br>
-Peer Reviewed by {Name here}<br> 
-({Comments here})
+Peer Reviewed by Elizabeth Trotter<br> 
+(Code tested in Postman & Swagger and works as intended.)
